@@ -4,13 +4,13 @@
             "title": "Grade Test 1",
             "description": "19.99$",
             "image": "",
-            "date": "12-13-2300"
+            "link": "https://google.com/"
         },
         {
             "title": "Grade Test 2",
             "description": "29.99$",
             "image": "",
-            "date": "12-13-2300"
+            "link": "https://youtube.com/"
         }
     ]
 }
