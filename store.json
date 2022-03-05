@@ -3,13 +3,13 @@
         {
             "title": "Grade Test 1",
             "description": "19.99$",
-            "image": "",
+            "image": "https://images6.alphacoders.com/108/thumb-1920-1082090.jpg",
             "link": "https://google.com/"
         },
         {
             "title": "Grade Test 2",
             "description": "29.99$",
-            "image": "",
+            "image": "https://www.dualshockers.com/static/uploads/2019/08/Minecraft-4K.png",
             "link": "https://youtube.com/"
         }
     ]
