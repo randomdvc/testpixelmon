@@ -4,19 +4,19 @@
             "title": "Test23",
             "description": "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST",
             "image": "",
-            "date": "12-13-2300"
+            "link": "https://google.com"
         },
         {
             "title": "Test234",
             "description": "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST",
             "image": "",
-            "date": "12-13-2300"
+            "link": "https://google.com"
         },
         {
             "title": "Test235",
             "description": "TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST TEST",
             "image": "",
-            "date": "12-13-2300"
+            "link": "https://google.com"
         }
     ]
 }
