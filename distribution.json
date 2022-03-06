@@ -416,16 +416,6 @@
           }
         },
         {
-          "id": "com.pixelmonmod:pixelmon:8.3.6@jar",
-          "name": "Pixelmon",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 381660333,
-            "url": "https://raw.githubusercontent.com/rldevelopement/testpixelmon/main/servers/PixelmonLegends-1.12.2/forgemods/required/Pixelmon-1.12.2-8.3.6-universal.jar",
-            "MD5": "dceba956ce38fbeb72241c046518f443"
-          }
-        },
-        {
           "id": "net.mcreator:pixelmon_clothes:1.2.3@jar",
           "name": "Pixelmon Clothes",
           "type": "ForgeMod",
@@ -738,17 +728,6 @@
             "url": "https://raw.githubusercontent.com/rldevelopement/testpixelmon/main/servers/PixelmonLegends-1.12.2/files/resourcepacks/Faithful%201.12.2%20UPV.zip",
             "MD5": "72143846b993d3e511563ed3823670c4",
             "path": "resourcepacks/Faithful 1.12.2 UPV.zip"
-          }
-        },
-        {
-          "id": "pixel-cries-v5_reforged.zip",
-          "name": "pixel-cries-v5_reforged.zip",
-          "type": "File",
-          "artifact": {
-            "size": 307463959,
-            "url": "https://raw.githubusercontent.com/rldevelopement/testpixelmon/main/servers/PixelmonLegends-1.12.2/files/resourcepacks/pixel-cries-v5_reforged.zip",
-            "MD5": "abbfae60c281cc551c50004dcae53474",
-            "path": "resourcepacks/pixel-cries-v5_reforged.zip"
           }
         }
       ]
